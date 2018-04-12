@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConstraintLayout Demo</string>
+    <string name="content_description_add_playlist">Add to Watchlist</string>
+    <string name="content_description_hero_image">Hero Image</string>
+    <string name="content_description_poster">Movie Poster Image</string>
+    <string name="rent">RENT ₹ 100.00</string>
+    <string name="buy">BUY ₹ 590.00</string>
+    <string name="template_movie_title">Beauty and the Beast</string>
+    <string name="template_movie_details">December 2017 UA 151 minutes</string>
+    <string name="template_movie_description">The story and characters you know and love come to spectacular life in the live-action adaption of Disney\'s animated classic Beauty and the Beast.</string>
+    <string name="template_movie_genre">Family</string>
+    <string name="template_rotten_tomato_rating">71%</string>
+    <string name="template_similar">Similar</string>
+    <string name="template_number_ratings">242 ratings</string>
+</resources>
